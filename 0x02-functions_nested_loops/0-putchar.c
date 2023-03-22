@@ -1,9 +1,11 @@
 #include "main.h"
+
 /**
- * main - program prints _putchar followed by a new line
+ * main - check the code
  *
- * Return: Always 0
+ * Return: Always 0.
  */
+
 int main(void)
 {
 	_putchar('_');
