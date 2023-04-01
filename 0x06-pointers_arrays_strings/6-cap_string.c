@@ -6,7 +6,7 @@
  * @s: the string parameter
  * Return: string
  **/
-char *cap_string(char *)
+char *cap_string(char *s)
 {
 	int count = 0;
 	char prev;

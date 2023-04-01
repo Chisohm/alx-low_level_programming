@@ -10,7 +10,7 @@ char *leet(char *s)
 {
 	int i = 0, j;
 	char *keys = "AaEeOoTtLl";
-	char *vals = "44330007711";
+	char *vals = "4433007711";
 
 	for (; s[i] != '\0'; i++)
 	{
