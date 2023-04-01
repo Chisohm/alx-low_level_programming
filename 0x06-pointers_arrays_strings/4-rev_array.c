@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * reverse_array - a function that reseres an array
+ * reverse_array - a function that reserves an array
  * @a: the array as a pointer
  * @n: the size of the array
  * Return: always void
@@ -14,7 +14,7 @@ void reverse_array(int *a, int n)
 	int i;
 	int temp;
 
-	for (1 = 0; i < middle; i++)
+	for (i = 0; i < middle; i++)
 	{
 		temp = a[i];
 		a[i] = a[last - i];
