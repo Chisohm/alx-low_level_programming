@@ -2,7 +2,7 @@
 
 /**
  * _strspn - A function that returns the length of
- * progressive occurences of characters of a string in another
+ * progressive occurrences of characters of a string in another
  * @s: parameter of type char* .
  * @accept: parameter of type char* .
  * Return: unsigned int .
