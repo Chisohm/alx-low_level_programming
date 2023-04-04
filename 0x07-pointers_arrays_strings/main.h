@@ -10,7 +10,7 @@ char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
 void print_chessboard(char (*a)[8]);
 void print_diagsums(int *a, int size);
-int get_first_occurrence(char* s, char *accept);
+int get_first_occurrence(char *s, char *accept);
 unsigned int _get_str_len(char* c);
 int compare(const char *X, const char *Y);
 #endif /* !_MAIN_ */
