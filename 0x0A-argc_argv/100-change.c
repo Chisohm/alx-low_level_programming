@@ -52,6 +52,7 @@ if (isInteger(argv[1]))
 		}
 	}
 }
+
 printf("%i\n", coinUsed);
 
 return (0);
